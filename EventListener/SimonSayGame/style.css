@@ -1,0 +1,31 @@
+body{
+    /* background-color: black;
+    color: white; */
+    text-align: center;    
+}
+
+button{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: purple;
+}
